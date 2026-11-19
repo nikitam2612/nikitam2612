@@ -10,47 +10,93 @@ I'm a Computer Engineering graduate (2025) interested in building secure, scalab
 - 🤖 Interested in Generative AI, RAG and NLP
 - ☁️ Familiar with AWS, Linux, Git and GitHub
 
+---
+
 ### 🛠️ Technical Skills
 
-**Languages:** Python, C++, JavaScript, SQL
+**Programming Languages:** Python, C++, JavaScript, SQL
 
-**Backend:** FastAPI, REST APIs, Node.js
+**Backend Development:** FastAPI, REST APIs, Node.js
 
-**Databases:** MySQL, SQLite, MongoDB (exposure)
+**Databases:** MySQL, SQLite, MongoDB (Exposure), Firebase
 
 **Core Concepts:** Data Structures & Algorithms, OOP, DBMS, Authentication, RBAC
 
 **Security:** JWT, Argon2, Fernet Encryption, API Rate Limiting
 
+**AI & Machine Learning:** Generative AI, RAG, NLP, Machine Learning
+
 **Tools & Platforms:** Git, GitHub, AWS, Linux
+
+---
 
 ### 🚀 Featured Projects
 
-**1. SecurePay Sentinel – Secure Payment API & Security Assessment Platform**
+#### 1. SecurePay Sentinel – Secure Payment API & Security Assessment Platform
 
-A Python-based security-focused API demonstrating authentication, authorization, encryption, audit logging and automated security testing.
+A Python-based security-focused API demonstrating application security concepts through simulated payment transactions.
 
-- FastAPI, SQLAlchemy, SQLite, JWT, Argon2, Fernet
-- Role-Based Access Control and API rate limiting
-- Automated security tests using Pytest
+- JWT authentication and Argon2 password hashing
+- Role-Based Access Control (RBAC)
+- Fernet encryption for sensitive application data
+- Login brute-force protection and API rate limiting
+- Audit logging and HTTP security headers
+- Automated security testing using Pytest
 
-[View Project](https://github.com/nikitam2612/SecurePay-Sentinel)
+**Tech Stack:** Python, FastAPI, SQLAlchemy, SQLite, JWT, Cryptography, Pytest
 
-**2. GenAI Support Assistant**
+🔗 [View Project on GitHub](https://github.com/nikitam2612/SecurePay-Sentinel)
 
-A Generative AI-based support assistant built with Python, FastAPI and React, focused on processing information and providing AI-powered assistance.
+#### 2. Credit Default Prediction
 
-**3. MEMORA – Customer Ordering Management Platform**
+A machine learning project focused on predicting the likelihood of credit default using financial and customer data.
 
-A web-based ordering management platform with customer workflows and an owner dashboard.
+- Data preprocessing and predictive modelling
+- Machine learning-based credit risk analysis
+- Model evaluation
 
-- JavaScript, HTML, CSS and Firebase
+🔗 [View Project on GitHub](https://github.com/nikitam2612/credit-default-prediction)
+
+#### 3. GenAI Support Assistant
+
+A Generative AI-based support assistant built to process information and provide AI-powered assistance.
+
+- Python and FastAPI backend
+- React.js frontend
+- Data ingestion and integration workflows
+- Generative AI-based assistance
+
+**Tech Stack:** Python, FastAPI, React.js, Generative AI
+
+#### 4. MEMORA – Customer Ordering Management Platform
+
+A web-based customer ordering management platform with customer workflows and an owner dashboard.
+
+- Customer service browsing and order submission
+- Order tracking workflows
+- Owner dashboard for managing customer orders
+- Firebase integration for data storage and retrieval
+
+**Tech Stack:** JavaScript, HTML, CSS, Firebase
+
+---
+
+### 🎯 Areas of Interest
+
+- Backend Development
+- Software Engineering
+- Application Security
+- Artificial Intelligence & Generative AI
+- Data Engineering and Machine Learning
+- Cloud Computing
+
+---
 
 ### 🔗 Connect With Me
 
-- **GitHub:** [github.com/nikitam2612](https://github.com/nikitam2612)
+- **GitHub:** [nikitam2612](https://github.com/nikitam2612)
 - **Location:** Pune, Maharashtra, India
 
 ---
 
-*Always learning, building and improving.*
+⭐ *Always learning, building and improving.*
